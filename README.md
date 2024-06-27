@@ -3,6 +3,11 @@ This repository consists of all the implementations of data science and machine 
 
 ## Tools and Resources
 
+<p align="center">
+  <img src="https://www.unite.ai/wp-content/uploads/2022/04/AI-Python-Libraries-1000x600.png" height = 250 width = 400/>
+  <img src="https://onlinedegrees.sandiego.edu/wp-content/uploads/2023/05/6-careers-you-can-get-with-python.jpg" height = 250 width = 400/>
+</p>
+
 **0) Introduction to Python**
 1. Python Basics
    - [Basics and Crumbs:](https://github.com/dhruvg029/Data-Science-Bootcamp/blob/main/0_Introduction%20to%20Python/1_Python%20Basics/1_python_basics.ipynb) Includes extreme basics of Python like fundamental and advanced data types, variables, loops, if and else statements, break and continue statements and range() function.
