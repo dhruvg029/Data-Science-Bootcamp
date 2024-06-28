@@ -27,5 +27,9 @@ This repository consists of all the implementations of data science and machine 
 3. [Probability Distributions:](https://github.com/dhruvg029/Data-Science-Bootcamp/blob/main/1_Mathematics%20and%20Statistics/3_probability_distributions.ipynb) Includes code of discrete distributions like binomial, bernoulli, poisson and and continuous like normal distributions. This concept also includes distributions like uniform and exponential distributions.
 4. [Hypothesis Testing:](https://github.com/dhruvg029/Data-Science-Bootcamp/blob/main/1_Mathematics%20and%20Statistics/4_hypothesis_testing.ipynb) Demonstrates one sample (Z-test and T-test), two sample (Z-test and T-test) and Chi-Square test in detail by defining null and alternative hypothesis using specific python modules and libraries.
 5. [Random and Stratified Sampling](https://github.com/dhruvg029/Data-Science-Bootcamp/blob/main/1_Mathematics%20and%20Statistics/5_sampling.ipynb) Includes examples which use random sampling and stratified sampling in python with the help of real data.
- 
+
+**2) Exploratory Data Analysis**
+1. [EDA Basics:](https://github.com/dhruvg029/Data-Science-Bootcamp/tree/main/2_Exploratory%20Data%20Analysis/1_EDA_basics) Covers basic EDA terminologies, descriptives like Mean, Median, Mode, Variance, Min and Max, central limit theorem, discrete and continuous distributions on a real world dataset.
+2. [Univariate Analysis:](https://github.com/dhruvg029/Data-Science-Bootcamp/blob/main/2_Exploratory%20Data%20Analysis/2_Univariate_analysis/1_univariate_numerical_categorical.ipynb) Covers univariate analysis on both numerical and categorical variables with the help of data visualization, and helps you to draw inferences from the plots.
+
 ## Cheatsheets
