@@ -41,7 +41,14 @@ This repository consists of all the implementations of data science and machine 
 4. [Validation:](https://github.com/dhruvg029/Data-Science-Bootcamp/tree/main/3_Data%20Preprocessing/4_Validation) Gives an example of hold-out validation and k-fold cross validation.
 
 ### 4) Feature Engineering
-1. [Basics of Feature Engineering:](https://github.com/dhruvg029/Data-Science-Bootcamp/tree/main/4_Feature%20Engineering/1_Crumbs%20of%20Feature%20Engineering) Provides notebooks related to the crumbs of feature engineering, like feature transformation, feature scaling, binning, feature interaction, handling date-time features, feature tools, and many more.
-2. [Text Feature Engineering:](https://github.com/dhruvg029/Data-Science-Bootcamp/blob/main/4_Feature%20Engineering/2_Text%20Feature%20Engineering/1_regular_expressions.ipynb) Provides basics of regular expressions or regex, built-in methods, sequences and characters, and gives examples of data extraction from a given text or string. 
+1. [Basics of Feature Engineering:](https://github.com/dhruvg029/Data-Science-Bootcamp/tree/main/4_Feature%20Engineering/1_Crumbs%20of%20Feature%20Engineering) Provides notebooks related to the crumbs of feature engineering, like feature transformation, feature scaling, binning, feature interaction, handling date-time features, frequency and mean encoding, feature tools, and many more.
+2. [Text Feature Engineering:](https://github.com/dhruvg029/Data-Science-Bootcamp/blob/main/4_Feature%20Engineering/2_Text%20Feature%20Engineering/1_regular_expressions.ipynb) Provides basics of regular expressions or regex, built-in methods, sequences and characters, and gives examples of data extraction from a given text or string.
+
+### 5) Machine Learning
+1. [Scikit-Learn:](https://github.com/dhruvg029/Data-Science-Bootcamp/blob/main/5_Machine%20Learning/1_Scikit%20Learn/1_scikit_learn.ipynb) Teaches the basics of Scikit-Learn and how different machine learning algorithms can be imported for regression and classification purposes.
+2. [Basics of Machine Learning:](https://github.com/dhruvg029/Data-Science-Bootcamp/tree/main/5_Machine%20Learning/2_Basics%20of%20ML) Tells about benchmark classification, benchmark regression and cost function, and are performed on a sample dataset for demonstration.
+3. [Regression and Classification:](https://github.com/dhruvg029/Data-Science-Bootcamp/tree/main/5_Machine%20Learning/3_Regression%20and%20Classification) Discusses about linear models like linear regression, regularized models like Ridge and Lasso regression, OLS method, classification models like logistic regression, and showcasing example of using SMOTE for class imbalance situations.
+4. [Support Vector Machines:](https://github.com/dhruvg029/Data-Science-Bootcamp/tree/main/5_Machine%20Learning/4_Support%20Vector%20Machines) Demonstrates all types of SVM kernels (linear, default, polynomial, and gaussian) with the help of iris dataset and plotting contour graphs.
+5. [Decision Trees and Random Forests:](https://github.com/dhruvg029/Data-Science-Bootcamp/tree/main/5_Machine%20Learning/5_Decision%20Tree%20%26%20Random%20Forests) Talks about different regression and classification regression with respect to decision trees, random forests, gradient boosting, XGBoost, and catboost. 
  
 ## Cheatsheets
