@@ -5,7 +5,7 @@
   <img src="https://onlinedegrees.sandiego.edu/wp-content/uploads/2023/05/6-careers-you-can-get-with-python.jpg" height = 250 width = 400/>
 </p>
 
-This repository consists of all the implementations of data science and machine learning related algorithms and theories. It is divided into 11 parts from basics of python to implementing Hadoop and Spark related terminologies in python using PySpark. This repository will be updated whenever required. 
+This repository consists of all the implementations of data science and machine learning algorithms and theories. It is divided into 11 parts from basics of python to implementing Hadoop and Spark related terminologies in python using PySpark. This repository will be updated whenever required. 
 
 ## Tools and Resources
 
@@ -51,5 +51,6 @@ This repository consists of all the implementations of data science and machine 
 4. [Support Vector Machines:](https://github.com/dhruvg029/Data-Science-Bootcamp/tree/main/5_Machine%20Learning/4_Support%20Vector%20Machines) Demonstrates all types of SVM kernels (linear, default, polynomial, and gaussian) with the help of iris dataset and plotting contour graphs.
 5. [Decision Trees and Random Forests:](https://github.com/dhruvg029/Data-Science-Bootcamp/tree/main/5_Machine%20Learning/5_Decision%20Tree%20%26%20Random%20Forests) Talks about different regression and classification regression with respect to decision trees, random forests, gradient boosting, XGBoost, catboost, and light gradient boosting machines (LightGBM).
 6. [Naive Bayes Algorithm:](https://github.com/dhruvg029/Data-Science-Bootcamp/blob/main/5_Machine%20Learning/6_Naive%20Bayes%20Algorithm/1_naive_bayes.ipynb) Teaches about the basics of naive bayes algorithm and it's types: Gaussian, Multinomial and Bernoulli naive bayes algorithms.
+7. [Principal Component Analysis:](https://github.com/dhruvg029/Data-Science-Bootcamp/blob/main/5_Machine%20Learning/7_Principal%20Component%20Analysis/1_principal_component_analysis.ipynb) Showcases an example of a classification model with and without PCA, and how dimensionality reduction can help improve the performance of the model.
  
 ## Cheatsheets
