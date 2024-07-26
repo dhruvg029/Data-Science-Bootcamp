@@ -54,5 +54,9 @@ This repository consists of all the implementations of data science and machine 
 7. [Principal Component Analysis:](https://github.com/dhruvg029/Data-Science-Bootcamp/blob/main/5_Machine%20Learning/7_Principal%20Component%20Analysis/1_principal_component_analysis.ipynb) Showcases an example of a classification model with and without PCA, and how dimensionality reduction can help improve the performance of the model.
 8. [Clustering:](https://github.com/dhruvg029/Data-Science-Bootcamp/tree/main/5_Machine%20Learning/8_K-Means%20Clustering) Showcases 2 types of clustering technique: K-means clustering which uses the concept of euclidean distance and inertia, and Hierarchial / Agglomerative clustering which uses the concept of Dengrogram to find similar features and create different clusters of same properties.
 9. [K-nearest neighbours:](https://github.com/dhruvg029/Data-Science-Bootcamp/tree/main/5_Machine%20Learning/9_K-Nearest%20Neighbours) How KNN works on a real world dataset, how to find the K nearest neighbours and how to avoid overfitting and underfitting using KNN algorithm.
- 
+
+### 6) Deep Learning
+1. [Pytorch, Tensorflow and Keras:](https://github.com/dhruvg029/Data-Science-Bootcamp/tree/main/6_Deep%20Learning/1_Pytorch%20Tensorflow%20and%20Keras) Gives a concise overview of Pytorch, Tensorflow and Keras and how it can be used in the context of Deep learning in Python.
+2. [Neural Network:](https://github.com/dhruvg029/Data-Science-Bootcamp/tree/main/6_Deep%20Learning/2_Neural%20Network) Provides an introduction of neural network and concepts like backward and forward propagation, along with an end-to-end example of how to use it on a real world dataset.
+
 ## Cheatsheets
