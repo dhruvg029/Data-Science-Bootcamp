@@ -59,5 +59,6 @@ This repository consists of all the implementations of data science and machine 
 1. [Pytorch, Tensorflow and Keras:](https://github.com/dhruvg029/Data-Science-Bootcamp/tree/main/6_Deep%20Learning/1_Pytorch%20Tensorflow%20and%20Keras) Gives a concise overview of Pytorch, Tensorflow and Keras and how it can be used in the context of Deep learning in Python.
 2. [Neural Network:](https://github.com/dhruvg029/Data-Science-Bootcamp/tree/main/6_Deep%20Learning/2_Neural%20Network) Provides an introduction of neural network and concepts like backward and forward propagation, along with an end-to-end example of how to use it on a real world dataset.
 3. [Optimizers in NN:](https://github.com/dhruvg029/Data-Science-Bootcamp/tree/main/6_Deep%20Learning/3_Optimizers%20in%20NN) Showcases three different optimizers for Neural Networks: Adam, SGD with momentum, and RMSProp along with their implementations from scratch.
-
+4. Digital Image Processing:
+   - [Playing with images:](https://github.com/dhruvg029/Data-Science-Bootcamp/tree/main/6_Deep%20Learning/4_Digital%20Image%20Processing/1_Playing%20with%20Images) Consits of basic image related preprocessing, such as reading and loading images, image operations and conversion of images into different formats.
 ## Cheatsheets
