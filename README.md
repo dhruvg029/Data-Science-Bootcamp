@@ -61,4 +61,7 @@ This repository consists of all the implementations of data science and machine 
 3. [Optimizers in NN:](https://github.com/dhruvg029/Data-Science-Bootcamp/tree/main/6_Deep%20Learning/3_Optimizers%20in%20NN) Showcases three different optimizers for Neural Networks: Adam, SGD with momentum, and RMSProp along with their implementations from scratch.
 4. Digital Image Processing:
    - [Playing with images:](https://github.com/dhruvg029/Data-Science-Bootcamp/tree/main/6_Deep%20Learning/4_Digital%20Image%20Processing/1_Playing%20with%20Images) Consits of basic image related preprocessing, such as reading and loading images, image operations and conversion of images into different formats.
+   - [Bit Plane Slicing:](https://github.com/dhruvg029/Data-Science-Bootcamp/tree/main/6_Deep%20Learning/4_Digital%20Image%20Processing/2_Bit%20Plane%20Slicing) Showcases an example of how to perform bit plane slicing and how to enhance an image with the help of constrast stretching technique.
+   - [Morphological Image Processing:](https://github.com/dhruvg029/Data-Science-Bootcamp/tree/main/6_Deep%20Learning/4_Digital%20Image%20Processing/3_Morphological%20Processing) Tells about different morphological techniques such as image erosion, image dilation, closing, opening and morphological gradient, along with various image thresholding techniques for image segmentation.
+   
 ## Cheatsheets
