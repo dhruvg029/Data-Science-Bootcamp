@@ -9,7 +9,8 @@ This repository consists of all the implementations of data science and machine 
 
 ## Tools and Resources
 
-### 0) Introduction to Python
+### 0) Introduction to Programming in DS
+1. Python Programming
 #### 1. Python Basics
    - [Basics and Crumbs:](https://github.com/dhruvg029/Data-Science-Bootcamp/blob/main/0_Introduction%20to%20Python/1_Python%20Basics/1_python_basics.ipynb) Includes extreme basics of Python like fundamental and advanced data types, variables, loops, if and else statements, break and continue statements and range() function.
    - [Strings and List Operations:](https://github.com/dhruvg029/Data-Science-Bootcamp/blob/main/0_Introduction%20to%20Python/1_Python%20Basics/2_string_list_operations.ipynb) Discusses about the string and list in built methods, slicing and indexing, nesting of lists along with different string and list operations.
