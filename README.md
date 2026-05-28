@@ -1,16 +1,17 @@
-# Data Science Repertoire  
+# 📈 Data Science Repertoire  
 
 <p align="center">
   <img src="https://www.unite.ai/wp-content/uploads/2022/04/AI-Python-Libraries-1000x600.png" height = 250 width = 400/>
   <img src="https://onlinedegrees.sandiego.edu/wp-content/uploads/2023/05/6-careers-you-can-get-with-python.jpg" height = 250 width = 400/>
 </p>
 
-This repository consists of all the implementations of data science and machine learning algorithms and theories. It is divided into 11 parts from basics of python to implementing Hadoop and Spark related terminologies in python using PySpark. This repository will be updated whenever required. 
+This repository consists of all the implementations of data science and machine learning algorithms and theories. It is divided into 11 parts from basics of python to implementing Hadoop and Spark related terminologies in python using PySpark. This repository will be updated whenever required. **Feel free to star it if you find it useful!** ⭐ 
 
-## Tools and Resources
+---
+
+## 📂 Repository Structure
 
 ### 0) Introduction to Programming in DS
-1. Python Programming
 #### 1. Python Basics
    - [Basics and Crumbs:](https://github.com/dhruvg029/Data-Science-Bootcamp/blob/main/0_Introduction%20to%20Python/1_Python%20Basics/1_python_basics.ipynb) Includes extreme basics of Python like fundamental and advanced data types, variables, loops, if and else statements, break and continue statements and range() function.
    - [Strings and List Operations:](https://github.com/dhruvg029/Data-Science-Bootcamp/blob/main/0_Introduction%20to%20Python/1_Python%20Basics/2_string_list_operations.ipynb) Discusses about the string and list in built methods, slicing and indexing, nesting of lists along with different string and list operations.
